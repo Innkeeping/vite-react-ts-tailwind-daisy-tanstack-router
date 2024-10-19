@@ -48,3 +48,10 @@ export default tseslint.config({
   },
 })
 ```
+
+Additionaly this template has [Tailwind CSS](https://tailwindcss.com/) and [Daisy](https://daisyui.com/).
+It has a Navbar component from Daisy.
+
+This template also has [Tanstack-Router](https://tanstack.com/router/latest).
+It has routing setup with hashrouting.
+
