@@ -1,1 +1,0 @@
-import{c as o,j as e}from"./index-D9SQqP0W.js";const c=o("/")({component:t});function t(){return e.jsx("div",{className:"p-2",children:e.jsx("h3",{children:"Welcome Home!"})})}export{t as App,c as Route,t as default};
