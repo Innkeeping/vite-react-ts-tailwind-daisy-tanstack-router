@@ -1,3 +1,11 @@
+
+Additionally this template has [Tailwind CSS](https://tailwindcss.com/) with PostCSS and [Daisy](https://daisyui.com/).
+It has a Navbar component from Daisy.
+Tailwind.config is ready to go.
+
+This template also has [Tanstack-Router](https://tanstack.com/router/latest).
+It has routing setup with hashrouting. A home index page and page1 are created.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -49,10 +57,4 @@ export default tseslint.config({
 })
 ```
 
-Additionaly this template has [Tailwind CSS](https://tailwindcss.com/) with PostCSS and [Daisy](https://daisyui.com/).
-It has a Navbar component from Daisy.
-Tailwind.config is ready to go.
-
-This template also has [Tanstack-Router](https://tanstack.com/router/latest).
-It has routing setup with hashrouting. A home index page and page1 are created.
 
